@@ -1,0 +1,9 @@
+*.gb
+*.gbc
+*.gba
+*.sna
+*.sn[0-9]
+*.sav
+*.dem
+*.exe
+*.zip

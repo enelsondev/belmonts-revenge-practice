@@ -1,0 +1,12 @@
+{
+  "release": "alpha17",
+  "date": "2026-10-29",
+  "source_size": 131072,
+  "source_sha256": "17570ceec1b22153604622c4412d048dd8f7ccb4626daf9ddea96de8a062dbf2",
+  "output_size": 262144,
+  "output_sha256": "fff7bd58fdae8ee270d72d92cb008037b8e2305f4f1d55d19247142275828449",
+  "patch_sha256": "a17e4bc5d7ec2fa8974f67141ef2b5b5a82bfc76fa8cc8618055ffa8cf1046f1",
+  "development_baseline_commit": "2ae34c22e42dc227d5c09e6dd05d1822b2e06fdf",
+  "tested_emulator": "BGB 1.6.6",
+  "hardware_verified": false
+}
